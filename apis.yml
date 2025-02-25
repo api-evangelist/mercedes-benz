@@ -43,3 +43,57 @@ maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
 specificationVersion: '0.19'
+common:
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/
+    type: Portal
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/products
+    type: Products
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/success-stories
+    type: UseCases
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/news
+    type: News
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: >-
+      https://developer.mercedes-benz.com/get-started/what-is-mb-dev/what_we_offer
+    type: GettingStarted
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/support
+    type: Support
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/support/faq
+    type: FAQ
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/support/contact
+    type: Contact
+  - name: Mercedes me ID login
+    description: 'null'
+    url: https://id.mercedes-benz.com/ciam/auth/login
+    type: Login
+  - name: Mercedes me ID Registration
+    description: 'null'
+    url: https://id.mercedes-benz.com/ciam/auth/login#/register
+    type: SignUp
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/status
+    type: Status
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/legal/notice
+    type: TermsOfService
+  - name: MercedesBenz /developers  The API platform by Mercedes-Benz
+    description: 'null'
+    url: https://developer.mercedes-benz.com/legal/privacy
+    type: PrivacyPolicy
