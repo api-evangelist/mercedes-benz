@@ -2,43 +2,29 @@ aid: mercedes-benz
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mercedes-benz/refs/heads/main/apis.yml
 apis:
-  - aid: mercedes-benz:mercedes-benz
-    name: MercedesBenz
-    tags:
-      - API
-    humanURL: ' https://developer.mercedes-benz.com/'
-    properties:
-      - url: ' https://developer.mercedes-benz.com/'
-        type: Documentation
-    description: >-
-      Welcome to Mercedes-Benz /developers! We support developers, startups and
-      enterprises in creating innovative applications with official
-      vehicle-related data products and APIs from Mercedes-Benz. Skyrocket your
-      business models, join us in driving digital progress around mobility and
-      beyond. 
   - aid: mercedes-benz:car-configurator-api
     name: Car Configurator API
+    tags: []
+    humanURL: https://developer.mercedes-benz.com/products/car_configurator
+    properties:
+      - url: https://developer.mercedes-benz.com/products/car_configurator
+        type: Documentation
+      - url: properties/car_configurator
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: OpenAPI
+        description: 'null'
+      - url: https://developer.mercedes-benz.com/products/car_configurator/docs#
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: Documentation
+        description: 'null'
+      - url: https://developer.mercedes-benz.com/products/car_configurator/faq
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: FAQ
+        description: 'null'
     description: >-
       Use this product to integrate always up-to-date Mercedes­Benz technical
       as well as marketing vehicle data into your solution and business model.
       Try it out.
-    humanURL: https://developer.mercedes-benz.com/products/car_configurator
-    tags: []
-    properties:
-      - type: Documentation
-        url: https://developer.mercedes-benz.com/products/car_configurator
-      - name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        description: 'null'
-        url: properties/car_configurator
-        type: OpenAPI
-      - name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        description: 'null'
-        url: https://developer.mercedes-benz.com/products/car_configurator/docs#
-        type: Documentation
-      - name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        description: 'null'
-        url: https://developer.mercedes-benz.com/products/car_configurator/faq
-        type: FAQ
 name: Mercedes-Benz
 tags:
   - Vehicles
