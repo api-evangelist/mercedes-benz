@@ -27,28 +27,48 @@ apis:
       Try it out.
   - aid: mercedes-benz:connect-your-business-api
     name: Connect Your Business API
+    tags: []
+    humanURL: https://developer.mercedes-benz.com/products/connect_your_business
+    properties:
+      - url: https://developer.mercedes-benz.com/products/connect_your_business
+        type: Documentation
+      - url: properties/command_management_api
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: OpenAPI
+        description: 'null'
+      - url: >-
+          https://developer.mercedes-benz.com/products/connect_your_business/docs#
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: Documentation
+        description: 'null'
+      - url: https://developer.mercedes-benz.com/products/connect_your_business/faq
+        name: MercedesBenz /developers  The API platform by Mercedes-Benz
+        type: FAQ
+        description: 'null'
     description: >-
       Connect Your BusinessIntegrate vehicle diagnostic and status data for
       MercedesBenz cars and vans into your own products. Enrich your own
       portfolio with a variety of data packages and profit from the fact that
       you do not have to install any retrofit solutions.
-    humanURL: https://developer.mercedes-benz.com/products/connect_your_business
+  - aid: mercedes-benz:connect-your-fleet-api
+    name: Connect Your Fleet API
+    description: >-
+      Connect Your FleetManage your whole fleet with an individual set of
+      vehicle diagnostic and status data with only one enterprise consent. With
+      this holistic solution for fleet management, you will easily optimize
+      processes and reduce costs.
+    humanURL: https://developer.mercedes-benz.com/products/connect_your_fleet
     tags: []
     properties:
       - type: Documentation
-        url: https://developer.mercedes-benz.com/products/connect_your_business
+        url: https://developer.mercedes-benz.com/products/connect_your_fleet
       - name: MercedesBenz /developers  The API platform by Mercedes-Benz
         description: 'null'
-        url: properties/command_management_api
-        type: OpenAPI
-      - name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        description: 'null'
-        url: >-
-          https://developer.mercedes-benz.com/products/connect_your_business/docs#
+        url: https://developer.mercedes-benz.com/products/connect_your_fleet/docs#
         type: Documentation
       - name: MercedesBenz /developers  The API platform by Mercedes-Benz
         description: 'null'
-        url: https://developer.mercedes-benz.com/products/connect_your_business/faq
+        url: https://developer.mercedes-benz.com/products/connect_your_fleet/faq
         type: FAQ
 name: Mercedes-Benz
 tags:
