@@ -314,7 +314,16 @@ apis:
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: FAQ
         description: 'null'
-    description: Vehicle Status 1.5
+    description: >-
+      The Mercedes-Benz Vehicle Status 1.5 API is a tool that allows users to
+      access real-time data and information about their Mercedes-Benz vehicles.
+      This API provides insights into a vehicle's current status, including
+      details such as fuel levels, battery charge, tire pressure, and more.
+      Users can also receive alerts and notifications about any issues or
+      maintenance needs that may arise. With the Vehicle Status 1.5 API, drivers
+      can stay informed and proactively manage the health and performance of
+      their vehicles, leading to better overall safety and reliability on the
+      road.
   - aid: mercedes-benz:waviness-api
     name: Mercedes-Benz Waviness API
     tags: []
@@ -326,7 +335,17 @@ apis:
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: FAQ
         description: 'null'
-    description: Waviness
+    description: >-
+      The Mercedes-Benz Waviness API is a software interface that allows
+      developers to access and utilize a range of vehicle data and
+      functionalities from Mercedes-Benz vehicles. This API enables developers
+      to integrate features such as remote door locking, vehicle location
+      tracking, fuel level monitoring, and more into their own applications. By
+      leveraging the Mercedes-Benz Waviness API, developers can create
+      customized experiences for Mercedes-Benz owners, enhancing their overall
+      driving and ownership experience. This API opens up a world of
+      possibilities for innovative and convenient services that can be
+      seamlessly integrated with Mercedes-Benz vehicles.
 name: Mercedes-Benz
 tags:
   - Vehicles
