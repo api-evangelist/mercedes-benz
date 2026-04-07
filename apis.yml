@@ -41,8 +41,7 @@ apis:
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: Documentation
         description: 'null'
-      - url: 
-          https://developer.mercedes-benz.com/products/connect_your_business/faq
+      - url: https://developer.mercedes-benz.com/products/connect_your_business/faq
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: FAQ
         description: 'null'
@@ -58,8 +57,7 @@ apis:
     properties:
       - url: https://developer.mercedes-benz.com/products/connect_your_fleet
         type: Documentation
-      - url: 
-          https://developer.mercedes-benz.com/products/connect_your_fleet/docs#
+      - url: https://developer.mercedes-benz.com/products/connect_your_fleet/docs#
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: Documentation
         description: 'null'
@@ -75,11 +73,9 @@ apis:
   - aid: mercedes-benz:electric-vehicle-status-20-api
     name: Mercedes-Benz Electric Vehicle Status 2.0 API
     tags: []
-    humanURL: 
-      https://developer.mercedes-benz.com/products/electric_vehicle_status_2
+    humanURL: https://developer.mercedes-benz.com/products/electric_vehicle_status_2
     properties:
-      - url: 
-          https://developer.mercedes-benz.com/products/electric_vehicle_status_2
+      - url: https://developer.mercedes-benz.com/products/electric_vehicle_status_2
         type: Documentation
       - url: >-
           https://developer.mercedes-benz.com/products/electric_vehicle_status_2/faq
@@ -93,11 +89,9 @@ apis:
   - aid: mercedes-benz:electric-vehicle-status-30-api
     name: Mercedes-Benz Electric Vehicle Status 3.0 API
     tags: []
-    humanURL: 
-      https://developer.mercedes-benz.com/products/electric_vehicle_status_3
+    humanURL: https://developer.mercedes-benz.com/products/electric_vehicle_status_3
     properties:
-      - url: 
-          https://developer.mercedes-benz.com/products/electric_vehicle_status_3
+      - url: https://developer.mercedes-benz.com/products/electric_vehicle_status_3
         type: Documentation
       - url: >-
           https://developer.mercedes-benz.com/products/electric_vehicle_status_3/faq
@@ -181,8 +175,7 @@ apis:
   - aid: mercedes-benz:pay-as-you-drive-20-api
     name: Mercedes-Benz Pay as You Drive 2.0 API
     tags: []
-    humanURL: 
-      https://developer.mercedes-benz.com/products/pay_as_you_drive_insurance_2
+    humanURL: https://developer.mercedes-benz.com/products/pay_as_you_drive_insurance_2
     properties:
       - url: >-
           https://developer.mercedes-benz.com/products/pay_as_you_drive_insurance_2
@@ -206,8 +199,7 @@ apis:
     properties:
       - url: https://developer.mercedes-benz.com/products/road_safety_hotspots
         type: Documentation
-      - url: 
-          https://developer.mercedes-benz.com/products/road_safety_hotspots/faq
+      - url: https://developer.mercedes-benz.com/products/road_safety_hotspots/faq
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: FAQ
         description: 'null'
@@ -281,8 +273,7 @@ apis:
     properties:
       - url: https://developer.mercedes-benz.com/products/vehicle_specification
         type: Documentation
-      - url: 
-          https://developer.mercedes-benz.com/products/vehicle_specification/faq
+      - url: https://developer.mercedes-benz.com/products/vehicle_specification/faq
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: FAQ
         description: 'null'
@@ -294,8 +285,7 @@ apis:
   - aid: mercedes-benz:vehicle-specification-fleet-api
     name: Mercedes-Benz Vehicle Specification Fleet API
     tags: []
-    humanURL: 
-      https://developer.mercedes-benz.com/products/vehicle_specification_fleet
+    humanURL: https://developer.mercedes-benz.com/products/vehicle_specification_fleet
     properties:
       - url: >-
           https://developer.mercedes-benz.com/products/vehicle_specification_fleet
@@ -346,9 +336,9 @@ apis:
       own applications.
 name: Mercedes-Benz
 tags:
-  - Vehicles
   - Automobiles
   - Cars
+  - Vehicles
 type: Contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
