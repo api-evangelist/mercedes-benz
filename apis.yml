@@ -339,7 +339,7 @@ tags:
   - Automobiles
   - Cars
   - Vehicles
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
@@ -386,7 +386,7 @@ common:
     description: 'null'
   - url: https://developer.mercedes-benz.com/status
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
-    type: Status
+    type: StatusPage
     description: 'null'
   - url: https://developer.mercedes-benz.com/legal/notice
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
