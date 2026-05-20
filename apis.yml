@@ -343,6 +343,10 @@ kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
+  - type: GitHubOrganization
+    url: https://github.com/mercedes-benz
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mercedes-benz_ag
   - url: https://developer.mercedes-benz.com/
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
     type: Portal
