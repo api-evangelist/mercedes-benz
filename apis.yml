@@ -400,6 +400,8 @@ common:
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
     type: PrivacyPolicy
     description: 'null'
+  - type: LLMsTxt
+    url: https://developer.mercedes-benz.com/llms.txt
 created: '2025-02-08'
 modified: '2026-04-28'
 position: Consuming
