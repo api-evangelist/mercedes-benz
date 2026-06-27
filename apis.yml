@@ -386,7 +386,7 @@ common:
     description: 'null'
   - url: https://id.mercedes-benz.com/ciam/auth/login#/register
     name: Mercedes me ID Registration
-    type: SignUp
+    type: Signup
     description: 'null'
   - url: https://developer.mercedes-benz.com/status
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
@@ -400,7 +400,7 @@ common:
     name: MercedesBenz /developers  The API platform by Mercedes-Benz
     type: PrivacyPolicy
     description: 'null'
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://developer.mercedes-benz.com/llms.txt
 created: '2025-02-08'
 modified: '2026-04-28'
