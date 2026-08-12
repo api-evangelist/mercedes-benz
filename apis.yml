@@ -9,10 +9,6 @@ apis:
     properties:
       - url: https://developer.mercedes-benz.com/products/car_configurator
         type: Documentation
-      - url: properties/car_configurator
-        name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        type: OpenAPI
-        description: 'null'
       - url: https://developer.mercedes-benz.com/products/car_configurator/docs#
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
         type: Documentation
@@ -32,10 +28,6 @@ apis:
     properties:
       - url: https://developer.mercedes-benz.com/products/connect_your_business
         type: Documentation
-      - url: properties/command_management_api
-        name: MercedesBenz /developers  The API platform by Mercedes-Benz
-        type: OpenAPI
-        description: 'null'
       - url: >-
           https://developer.mercedes-benz.com/products/connect_your_business/docs#
         name: MercedesBenz /developers  The API platform by Mercedes-Benz
