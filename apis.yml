@@ -311,6 +311,12 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mercedes-benz.png
 access: 3rd-Party
 common:
+- type: Plans
+  url: plans/mercedes-benz-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/mercedes-benz-rate-limits.yml
+- type: FinOps
+  url: finops/mercedes-benz-finops.yml
 - type: Website
   url: https://mercedes-benz.com
 - type: VulnerabilityDisclosure
