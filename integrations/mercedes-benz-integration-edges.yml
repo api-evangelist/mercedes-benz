@@ -20,5 +20,72 @@ edges:
   evidence: https://www.high-mobility.com/car-api/mercedes-benz-data-api
   detected_by: sweep-automotive.py
   detected: '2026-10-13'
+- partner_name: APIs.guru OpenAPI Directory
+  partner: apis-guru
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: third-party
+  evidence: https://apis.guru/
+  category: API definition directory listing (OpenAPI)
+  contract_reference:
+    register: APIs.guru OpenAPI Directory
+    spec_file: null
+    standard: APIs.guru OpenAPI Directory
+    role: listed-in-directory
+    directory_provider: mercedes-benz.com
+    matched_domain: mercedes-benz.com
+    matched_by: domain+name-among-holders
+    apis_listed: 4
+    version_count: 4
+    first_added: '2019-03-12'
+    last_updated: '2019-03-12'
+    origin_publisher_hosted: true
+    origin_hosts:
+    - developer.mercedes-benz.com
+    categories:
+    - transport
+    own_openapi_files: 0
+    listings:
+    - key: mercedes-benz.com:configurator
+      title: Car Configurator
+      preferred: '1.0'
+      versions: 1
+      swagger_url: https://api.apis.guru/v2/specs/mercedes-benz.com/configurator/1.0/swagger.json
+      origin_url: https://developer.mercedes-benz.com/content/sites/default/files/2018-08/swagger_car_configurator_api.json
+      openapi_version: '2.0'
+    - key: mercedes-benz.com:dealer
+      title: Dealer
+      preferred: '1.0'
+      versions: 1
+      swagger_url: https://api.apis.guru/v2/specs/mercedes-benz.com/dealer/1.0/swagger.json
+      origin_url: https://developer.mercedes-benz.com/content/sites/default/files/2018-07/swagger_dealer_api_0.yaml
+      openapi_version: '2.0'
+    - key: mercedes-benz.com:diagnostics
+      title: Remote Diagnostic Support
+      preferred: '1.0'
+      versions: 1
+      swagger_url: https://api.apis.guru/v2/specs/mercedes-benz.com/diagnostics/1.0/swagger.json
+      origin_url: https://developer.mercedes-benz.com/content/sites/default/files/2018-10/swagger_remote_diagnostics_api_2.yaml
+      openapi_version: '2.0'
+    - key: mercedes-benz.com:image
+      title: Vehicle Image
+      preferred: '1.0'
+      versions: 1
+      swagger_url: https://api.apis.guru/v2/specs/mercedes-benz.com/image/1.0/swagger.json
+      origin_url: https://developer.mercedes-benz.com/content/sites/default/files/2018-05/swagger_vehicleimage_api.json
+      openapi_version: '2.0'
+    signal_note: 'participation only: a community directory listing (APIs.guru collects definitions; the provider
+      did not file them). Signals: version_count, apis_listed, origin_publisher_hosted.'
+    detected_by: sweep-openapi-directory-apis-guru.py
+    detected: '2026-10-22'
+  detected_by: sweep-openapi-directory-apis-guru.py
+  first_seen: '2026-10-22'
 method: searched
-checked: []
+checked:
+- https://api.apis.guru/v2/list.json
+- https://api.apis.guru/v2/providers.json
+source:
+- https://api.apis.guru/v2/list.json
+- https://api.apis.guru/v2/providers.json
